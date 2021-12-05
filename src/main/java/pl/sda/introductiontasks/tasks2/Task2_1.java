@@ -1,14 +1,14 @@
 package pl.sda.introductiontasks.tasks2;
 
 /*
-Stwórz i zainicjuj (dowolnymi wartościami) tablicę 10 liczb całkowitych.
-Oblicz sumę liczb w tej tablicy i wyświetl ją na ekran
+Create an array of length 10 and initialize with any integers.
+Calculate sum of all numbers in this array and print it in the console.
  */
 
 public class Task2_1 {
   public static void main(String[] args) {
    /*
-    TU UMIEŚĆ SWÓJ KOD
+    Write your code here
    */
   }
 }

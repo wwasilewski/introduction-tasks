@@ -2,13 +2,12 @@ package pl.sda.introductiontasks.tasks1;
 
 public class Task1_1 {
   /*
-  Stwórz zmienną, do której przypisz swoje imie.
-  Stwórz kolejną zmienną, do której przypisz swoje nazwisko.
-  Wyświetl swoje imie i nazwisko oddzielone spacją na ekranie.
+  Create a variable named 'x' and initialize it with any integer.
+  In case 'x' is even, in the console print 'Is even', else print 'Is odd'.
    */
   public static void main(String[] args) {
     /*
-    TU UMIEŚĆ SWÓJ KOD
-     */
+    Write your code here
+   */
   }
 }
