@@ -13,5 +13,5 @@ public class Task4_2 {
   }
 }
 
-record CountData(Long count) {
-}
+//record CountData(Long count) {
+//}
